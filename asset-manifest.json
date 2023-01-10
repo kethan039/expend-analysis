@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expend-analysis/static/css/main.5cf07088.css",
+    "main.js": "/expend-analysis/static/js/main.a12ecd7b.js",
+    "index.html": "/expend-analysis/index.html",
+    "main.5cf07088.css.map": "/expend-analysis/static/css/main.5cf07088.css.map",
+    "main.a12ecd7b.js.map": "/expend-analysis/static/js/main.a12ecd7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf07088.css",
+    "static/js/main.a12ecd7b.js"
+  ]
+}
